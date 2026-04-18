@@ -45,7 +45,7 @@ The project uses the following CSV files:
 - Removes duplicates and cleans datasets
 
 ### 📊 Team Analysis
-- Total wins per team (RCB set to 11 wins as project condition)
+- Total wins per team
 - Win percentage calculation
 - Team consistency (wins vs losses)
 
