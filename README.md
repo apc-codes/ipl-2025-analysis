@@ -78,13 +78,6 @@ The project uses the following CSV files:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/apc-codes/ipl-analysis.git
-cd ipl-analysis
-
 ## 📊 Sample Outputs
 
 ### Team Wins Graph
@@ -95,3 +88,12 @@ cd ipl-analysis
 
 ### Economy Rate Analysis
 ![Economy](Figure_6.png)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/apc-codes/ipl-analysis.git
+cd ipl-analysis
