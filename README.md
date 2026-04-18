@@ -99,6 +99,8 @@ git clone https://github.com/apc-codes/ipl-analysis.git
 cd ipl-analysis
 ```
 
+---
+
 ##👤 Author
 
 Avhijan Paul Choudhury
