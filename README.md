@@ -81,7 +81,7 @@ The project uses the following CSV files:
 ## 📊 Sample Outputs
 
 ### Team Wins Graph
-![Wins Graph](Screenshot 2026-04-19 003555.png)
+![Wins Graph](https://github.com/apc-codes/ipl-2025-analysis/blob/main/Screenshot%202026-04-19%20003555.png)
 
 ### Strike Rate Analysis
 ![Orange Cap](Figure_5.png)
