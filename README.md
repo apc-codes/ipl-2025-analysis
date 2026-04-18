@@ -84,3 +84,14 @@ The project uses the following CSV files:
 ```bash
 git clone https://github.com/apc-codes/ipl-analysis.git
 cd ipl-analysis
+
+## 📊 Sample Outputs
+
+### Team Wins Graph
+![Wins Graph](Screenshot 2026-04-19 003555.png)
+
+### Strike Rate Analysis
+![Orange Cap](Figure_5.png)
+
+### Economy Rate Analysis
+![Economy](Figure_6.png)
