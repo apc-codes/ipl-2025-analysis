@@ -13,10 +13,10 @@ def load_csv(file):
         return pd.DataFrame()
 
 
-matches = load_csv("matches.csv")
-deliveries = load_csv("deliveries.csv")
-orange = load_csv("orange_cap.csv")
-purple = load_csv("purple_cap.csv")
+matches = load_csv("data/matches.csv")
+deliveries = load_csv("data/deliveries.csv")
+orange = load_csv("data/orange_cap.csv")
+purple = load_csv("data/purple_cap.csv")
 
 
 # CLEANS MATCHES DATA in csv Files
