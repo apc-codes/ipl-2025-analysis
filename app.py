@@ -21,10 +21,10 @@ st.write("By~ Avhijan Paulchoudhury")
 
 @st.cache_data
 def load_data():
-    matches = pd.read_csv("matches.csv")
-    deliveries = pd.read_csv("deliveries.csv")
-    orange = pd.read_csv("orange_cap.csv")
-    purple = pd.read_csv("purple_cap.csv")
+    matches = pd.read_csv("data/matches.csv")
+    deliveries = pd.read_csv("data/deliveries.csv")
+    orange = pd.read_csv("data/orange_cap.csv")
+    purple = pd.read_csv("data/purple_cap.csv")
     return matches, deliveries, orange, purple
 
 matches, deliveries, orange, purple = load_data()
