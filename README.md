@@ -1,4 +1,4 @@
-# 🏏 IPL 2025 Data Analysis & Visualization
+# 🏏 IPL 2025 Data Analysis & Visualization Dashboard
 
 A complete data analysis project on IPL 2025 using Python, focusing on team performance, player statistics, and match strategy insights.
 
@@ -6,7 +6,7 @@ A complete data analysis project on IPL 2025 using Python, focusing on team perf
 
 ## 📌 Overview
 
-This project analyzes IPL 2025 match and ball-by-ball data to extract meaningful insights such as:
+This project analyzes IPL 2025 match and ball-by-ball data to extract and present meaningful insights such as:
 
 - Team performance and win distribution  
 - Player rankings (Orange Cap & Purple Cap)  
