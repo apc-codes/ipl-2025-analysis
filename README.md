@@ -1,6 +1,6 @@
 # 🏏 IPL 2025 Data Analysis & Visualization Dashboard
 
-A complete data analysis project on IPL 2025 using Python, focusing on team performance, player statistics, and match strategy insights.
+A complete data analytics project on IPL 2025 using Python, focusing on team performance, player statistics, and match strategy insights.
 
 ---
 
