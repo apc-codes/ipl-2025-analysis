@@ -22,7 +22,8 @@ The project also handles **real-world data issues** like missing values, inconsi
 
 - **Python**
 - **Pandas** – data cleaning & analysis  
-- **Matplotlib & Seaborn** – data visualization  
+- **Matplotlib & Seaborn** – data visualization
+- **Streamlit** -dashboard
 
 ---
 
